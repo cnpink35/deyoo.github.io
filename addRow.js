@@ -3,4 +3,5 @@ function addRow(){
   
   var row = document.getElementById('table');
   row.insertRow();
+  row.inserCell(0);
 }
