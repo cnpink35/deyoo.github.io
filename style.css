@@ -10,6 +10,7 @@ table {
 }
 
 button {
-  marign: auto;
-  display: inline;
+  marign-left: auto;
+  marign-right: auto;
+  /*display: inline;*/
 }
