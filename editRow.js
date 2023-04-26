@@ -9,7 +9,7 @@ function addRow(){
   //$("#table").after("<tr><td> test </td></tr>");
   
   var row = document.getElementById('table');
-  row.insertRow();
-  var cell = row.inserCell(0);
+  var newRow.insertRow();
+  var cell = newRow.inserCell(0);
   cell.innerText = 'test';
 }
