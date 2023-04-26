@@ -1,6 +1,9 @@
+<style>
 table {
   table-layout: fixed;
   width: 100%;
   border: 1px;
   border-style: solid;
+  border-color: black;
 }
+</style>
