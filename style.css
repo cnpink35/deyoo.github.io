@@ -11,7 +11,17 @@ table {
   border-collapse: collapse;
   margin-left: auto;
   margin-right: auto;
-  line-height: 15px;
+}
+
+tr {
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  height: 30px;
+}
+
+td {
+  border: 1px;
 }
 
 .buttonFrame {
