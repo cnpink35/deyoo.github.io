@@ -5,6 +5,13 @@ function delRow(){
   }
 }
 
+function divCol(){
+  var row = document.getElementById('table');
+  if(row.rows.length>0){
+  row.insertCell(0);
+  row.insertCell(1);
+  }
+
 /*function addRow(){
   //$("#table").after("<tr><td> test </td></tr>");
   
