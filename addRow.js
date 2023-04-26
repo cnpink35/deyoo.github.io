@@ -1,3 +1,6 @@
 function addRow(){
-  $("#table").after("<tr><td> test </td></tr>");
+  //$("#table").after("<tr><td> test </td></tr>");
+  
+  var row = document.getElementById('table');
+  row.insertRow();
 }
