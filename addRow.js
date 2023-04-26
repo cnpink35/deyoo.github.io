@@ -1,3 +1,3 @@
 function addRow(){
-  $("#table").append("<tr><td></td></tr>");
+  $("#table").append("<tr><td> </td></tr>");
 }
