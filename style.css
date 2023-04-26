@@ -1,9 +1,8 @@
-<style>
 table {
   table-layout: fixed;
   width: 100%;
   border: 1px;
   border-style: solid;
-  border-color: black;
+  /*border-color: black;*/
+  border-collapse: collapse;
 }
-</style>
