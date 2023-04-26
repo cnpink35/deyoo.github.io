@@ -17,16 +17,16 @@ created by daeun yoo on 2023.04.26-->
         <td> test1 </td>
       </tr>
     </table>
-    <script language="javaScript">
-    function addRow(){
-      $("#table").append("<tr><td>test2</td></tr>");
-    }
-    </script>
+    
     <div class="buttonFrame">
     <button class="addButton" onClick="addRow()"> add row </button>
     <button class="delButton" onClick="delRow()"> delete row </button>
     </div>
     <!--<input type="button" value="add row" onclick="">-->
   </body>
- 
+ <script language="javaScript">
+    function addRow(){
+      $("#table").append("<tr><td>test2</td></tr>");
+    }
+ </script>
 </html>
