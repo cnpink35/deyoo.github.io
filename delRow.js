@@ -5,7 +5,7 @@ function delRow(){
   }
 }
 
-function addRow(){
+/*function addRow(){
   //$("#table").after("<tr><td> test </td></tr>");
   
   var row = document.getElementById('table');
@@ -13,3 +13,4 @@ function addRow(){
   var cell = newRow.inserCell(0);
   cell.innerText = 'test';
 }
+*/
