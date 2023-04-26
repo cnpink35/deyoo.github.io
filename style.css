@@ -10,7 +10,6 @@ p{
 }
 
 table {
-  /*table-layout: fixed;*/
   width: 50%;
   border: 1px;
   border-style: solid;
@@ -35,7 +34,4 @@ td {
 
 .buttonFrame {
   text-align: center;
-  /*marign-left: auto;
-  marign-right: auto;
-  display: inline;*/
 }
