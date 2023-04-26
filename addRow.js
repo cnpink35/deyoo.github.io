@@ -3,6 +3,6 @@ function adRow(){
   
   var row = document.getElementById('table');
   row.insertRow();
-  row.inserCell(0);
+  var cell = row.inserCell(0);
   cell.innerText = 'test';
 }
