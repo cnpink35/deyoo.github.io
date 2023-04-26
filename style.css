@@ -9,8 +9,9 @@ table {
   margin-right: auto;
 }
 
-button {
-  marign-left: auto;
+.buttonFrame {
+  text-align: center;
+  /*marign-left: auto;
   marign-right: auto;
-  /*display: inline;*/
+  display: inline;*/
 }
