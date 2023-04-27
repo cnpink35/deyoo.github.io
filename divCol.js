@@ -9,7 +9,6 @@ function divCol(){
   var length = row.rows.length;
   if(length>0){
     var cell = row.rows[length-1].insertCell();
-    /*cell.innerText = 'test';*/
   }
 }
 
