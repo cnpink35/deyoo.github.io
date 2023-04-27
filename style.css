@@ -53,9 +53,9 @@ td {
 
 .customBtn:after {
   position: absolute;
-  /*content: " ";
+  content: " ";
   top: 0;
-  left: 0;*/
+  left: 0;
   z-index: -1;
   width: 100%;
   height: 100%;
@@ -72,4 +72,7 @@ td {
   background: black;
   transform: scale(1);
 }
-  
+
+.div {
+  display: block;
+}
