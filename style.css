@@ -37,11 +37,7 @@ td {
 }
 
 .customBtn {
-  /*width: 100px;
-  height: 20px;
-  padding: 5px 20px;*/
   border: 2px solid #000;
-  /*font-family: 'Lato', sans-serif;*/
   font-weight: 20;
   background: transparent;
   cursor: pointer;
@@ -60,7 +56,6 @@ td {
   width: 100%;
   height: 100%;
   transition: all 0.3s ease;
-  /*-webkit-transform: scale(.1);*/
   transform: scale(.1);
 }
 
